@@ -7,6 +7,7 @@ body {
 
 #timeContainer {
   font-size: 20px;
+  text-transform: uppercase;
 }
 
 .analogClock {
